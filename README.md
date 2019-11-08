@@ -8,3 +8,5 @@ from oldest to newest.
 - [Question 58715361](https://stackoverflow.com/questions/58715361): `SO_58715361.sh`
 - [Question 58737124](https://stackoverflow.com/questions/58737124): `SO_58737124.sh`
 - [Question 58743878](https://stackoverflow.com/questions/58743878): `SO_58743878.sh`
+- [Question 58759033](https://stackoverflow.com/questions/58759033): `SO_58759033.sh`
+- [Question 58763359](https://stackoverflow.com/questions/58763359): `SO_58763359.sh`
